@@ -1,0 +1,22 @@
+{
+  "name": "model-service-view",
+  "version": "1.0.0",
+  "description": "El folder de la practica 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules ./node_modules/jest/bin/jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexis96-2/MODEL-SERVICE-VIEW.git"
+  },
+  "author": "Alexis96-2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexis96-2/MODEL-SERVICE-VIEW/issues"
+  },
+  "homepage": "https://github.com/Alexis96-2/MODEL-SERVICE-VIEW#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
